@@ -1,0 +1,26 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atharv-Shukla-987/Slack-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Atharv-Shukla-987/Slack-bot/issues"
+  },
+  "homepage": "https://github.com/Atharv-Shukla-987/Slack-bot#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.17.1",
+    "axios": "^1.18.0",
+    "dotenv": "^17.4.2"
+  }
+}
